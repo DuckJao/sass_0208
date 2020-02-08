@@ -23,6 +23,7 @@
     "gulp-autoprefixer": "^7.0.1",
     "gulp-connect": "^5.7.0",
     "gulp-sass": "^4.0.2",
-    "gulp-sourcemaps": "^2.6.5"
+    "gulp-sourcemaps": "^2.6.5",
+    "node-gyp": "^6.1.0"
   }
 }
